@@ -1,7 +1,7 @@
-package com.laioffer.onlineorder.service;
+package onlineorder.laioffer.onlineorder.service;
 
-import com.laioffer.onlineorder.entity.MenuItemEntity;
-import com.laioffer.onlineorder.repository.MenuItemRepository;
+import onlineorder.laioffer.onlineorder.entity.MenuItemEntity;
+import onlineorder.laioffer.onlineorder.repository.MenuItemRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

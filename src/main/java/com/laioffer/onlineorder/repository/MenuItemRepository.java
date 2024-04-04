@@ -1,7 +1,7 @@
-package com.laioffer.onlineorder.repository;
+package onlineorder.laioffer.onlineorder.repository;
 
 
-import com.laioffer.onlineorder.entity.MenuItemEntity;
+import onlineorder.laioffer.onlineorder.entity.MenuItemEntity;
 import org.springframework.data.repository.ListCrudRepository;
 
 

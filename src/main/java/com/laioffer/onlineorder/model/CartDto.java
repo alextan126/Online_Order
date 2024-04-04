@@ -1,6 +1,6 @@
-package com.laioffer.onlineorder.model;
+package onlineorder.laioffer.onlineorder.model;
 
-import com.laioffer.onlineorder.entity.CartEntity;
+import onlineorder.laioffer.onlineorder.entity.CartEntity;
 
 import java.util.List;
 

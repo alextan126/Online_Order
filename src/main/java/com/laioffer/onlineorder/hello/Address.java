@@ -1,4 +1,4 @@
-package com.laioffer.onlineorder.hello;
+package onlineorder.laioffer.onlineorder.hello;
 
 public record Address(
         String street,

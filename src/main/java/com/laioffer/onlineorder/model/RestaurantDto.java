@@ -1,6 +1,6 @@
-package com.laioffer.onlineorder.model;
+package onlineorder.laioffer.onlineorder.model;
 
-import com.laioffer.onlineorder.entity.RestaurantEntity;
+import onlineorder.laioffer.onlineorder.entity.RestaurantEntity;
 
 import java.util.List;
 

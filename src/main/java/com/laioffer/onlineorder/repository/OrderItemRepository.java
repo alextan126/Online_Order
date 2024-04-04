@@ -1,6 +1,6 @@
-package com.laioffer.onlineorder.repository;
+package onlineorder.laioffer.onlineorder.repository;
 
-import com.laioffer.onlineorder.entity.OrderItemEntity;
+import onlineorder.laioffer.onlineorder.entity.OrderItemEntity;
 import org.springframework.data.jdbc.repository.query.Modifying;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.ListCrudRepository;

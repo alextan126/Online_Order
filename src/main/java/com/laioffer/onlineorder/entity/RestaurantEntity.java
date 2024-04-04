@@ -1,4 +1,4 @@
-package com.laioffer.onlineorder.entity;
+package onlineorder.laioffer.onlineorder.entity;
 
 
 import org.springframework.data.annotation.Id;

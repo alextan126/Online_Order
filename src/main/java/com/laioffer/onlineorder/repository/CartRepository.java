@@ -1,9 +1,8 @@
-package com.laioffer.onlineorder.repository;
+package onlineorder.laioffer.onlineorder.repository;
 
-import com.laioffer.onlineorder.entity.CartEntity;
+import onlineorder.laioffer.onlineorder.entity.CartEntity;
 import org.springframework.data.jdbc.repository.query.Modifying;
 import org.springframework.data.jdbc.repository.query.Query;
-import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.ListCrudRepository;
 
 public interface CartRepository extends ListCrudRepository<CartEntity, Long> {

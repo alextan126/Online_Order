@@ -1,4 +1,4 @@
-package com.laioffer.onlineorder;
+package onlineorder.laioffer.onlineorder;
 
 
 import org.springframework.boot.SpringApplication;

@@ -1,22 +1,14 @@
-package com.laioffer.onlineorder;
+package onlineorder.laioffer.onlineorder;
 
 
 import com.laioffer.onlineorder.entity.*;
-import com.laioffer.onlineorder.model.OrderItemDto;
-import com.laioffer.onlineorder.model.RestaurantDto;
 import com.laioffer.onlineorder.repository.*;
-import com.laioffer.onlineorder.service.CartService;
-import com.laioffer.onlineorder.service.CustomerService;
-import com.laioffer.onlineorder.service.MenuItemService;
-import com.laioffer.onlineorder.service.RestaurantService;
+import onlineorder.laioffer.onlineorder.service.CustomerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
-
-
-import java.util.List;
 
 
 //@Component

@@ -1,7 +1,7 @@
-package com.laioffer.onlineorder.model;
+package onlineorder.laioffer.onlineorder.model;
 
-import com.laioffer.onlineorder.entity.MenuItemEntity;
-import com.laioffer.onlineorder.entity.OrderItemEntity;
+import onlineorder.laioffer.onlineorder.entity.MenuItemEntity;
+import onlineorder.laioffer.onlineorder.entity.OrderItemEntity;
 
 public record OrderItemDto(
         Long orderItemId,

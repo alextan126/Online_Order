@@ -1,4 +1,4 @@
-package com.laioffer.onlineorder;
+package onlineorder.laioffer.onlineorder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

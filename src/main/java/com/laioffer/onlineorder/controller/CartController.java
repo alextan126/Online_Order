@@ -1,11 +1,11 @@
-package com.laioffer.onlineorder.controller;
+package onlineorder.laioffer.onlineorder.controller;
 
 
-import com.laioffer.onlineorder.entity.CustomerEntity;
-import com.laioffer.onlineorder.model.AddToCartBody;
-import com.laioffer.onlineorder.model.CartDto;
-import com.laioffer.onlineorder.service.CartService;
-import com.laioffer.onlineorder.service.CustomerService;
+import onlineorder.laioffer.onlineorder.entity.CustomerEntity;
+import onlineorder.laioffer.onlineorder.model.AddToCartBody;
+import onlineorder.laioffer.onlineorder.model.CartDto;
+import onlineorder.laioffer.onlineorder.service.CartService;
+import onlineorder.laioffer.onlineorder.service.CustomerService;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.web.bind.annotation.*;

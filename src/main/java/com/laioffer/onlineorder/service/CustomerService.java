@@ -1,10 +1,10 @@
-package com.laioffer.onlineorder.service;
+package onlineorder.laioffer.onlineorder.service;
 
 
-import com.laioffer.onlineorder.entity.CartEntity;
-import com.laioffer.onlineorder.entity.CustomerEntity;
-import com.laioffer.onlineorder.repository.CartRepository;
-import com.laioffer.onlineorder.repository.CustomerRepository;
+import onlineorder.laioffer.onlineorder.entity.CartEntity;
+import onlineorder.laioffer.onlineorder.entity.CustomerEntity;
+import onlineorder.laioffer.onlineorder.repository.CartRepository;
+import onlineorder.laioffer.onlineorder.repository.CustomerRepository;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.password.PasswordEncoder;

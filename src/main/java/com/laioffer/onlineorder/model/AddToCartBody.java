@@ -1,4 +1,4 @@
-package com.laioffer.onlineorder.model;
+package onlineorder.laioffer.onlineorder.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

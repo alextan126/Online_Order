@@ -1,8 +1,8 @@
-package com.laioffer.onlineorder.controller;
+package onlineorder.laioffer.onlineorder.controller;
 
 
-import com.laioffer.onlineorder.model.RegisterBody;
-import com.laioffer.onlineorder.service.CustomerService;
+import onlineorder.laioffer.onlineorder.model.RegisterBody;
+import onlineorder.laioffer.onlineorder.service.CustomerService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,11 +1,11 @@
-package com.laioffer.onlineorder.service;
+package onlineorder.laioffer.onlineorder.service;
 
-import com.laioffer.onlineorder.entity.MenuItemEntity;
-import com.laioffer.onlineorder.entity.RestaurantEntity;
-import com.laioffer.onlineorder.model.MenuItemDto;
-import com.laioffer.onlineorder.model.RestaurantDto;
-import com.laioffer.onlineorder.repository.MenuItemRepository;
-import com.laioffer.onlineorder.repository.RestaurantRepository;
+import onlineorder.laioffer.onlineorder.entity.MenuItemEntity;
+import onlineorder.laioffer.onlineorder.entity.RestaurantEntity;
+import onlineorder.laioffer.onlineorder.model.MenuItemDto;
+import onlineorder.laioffer.onlineorder.model.RestaurantDto;
+import onlineorder.laioffer.onlineorder.repository.MenuItemRepository;
+import onlineorder.laioffer.onlineorder.repository.RestaurantRepository;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 

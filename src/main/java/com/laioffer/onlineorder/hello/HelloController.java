@@ -1,7 +1,6 @@
-package com.laioffer.onlineorder.hello;
+package onlineorder.laioffer.onlineorder.hello;
 
 import com.github.javafaker.Faker;
-import org.springframework.cglib.core.Local;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
